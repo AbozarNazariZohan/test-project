@@ -1,3 +1,7 @@
-hidden.txt
-hidden2.txt
+#hidden.txt
+#hidden2.txt
+
+*.txt
+
+
 
